@@ -19,10 +19,7 @@
     "webpack"
   ],
   "files": [
-    "errors",
-    "gfx",
-    "js",
-    "lib"
+    "build"
   ],
   "scripts": {
     "test": "gulp test --all",
